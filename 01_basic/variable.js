@@ -1,4 +1,4 @@
-const accountId=12345
+/*const accountId=12345
 let accountEmail="shraddhapandey1259@gmail.com"
 var accountPassword=5236
 accountCity="Noida Electronic City"
@@ -19,4 +19,14 @@ console.log(accountPassword);
 accountCity="Delhi"
 console.log(accountCity);
 
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState])*/
+
+
+let bookName
+bookName="My experiment with truth";
+console.log(bookName);
+
+/*const empId;
+empId=2501;
+console.log(empId);*/
+// Missing initializerin const declaration
